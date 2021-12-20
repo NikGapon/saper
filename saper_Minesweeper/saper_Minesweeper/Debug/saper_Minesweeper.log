@@ -1,0 +1,4 @@
+﻿  saper_Minesweeper.cpp
+D:\Yandex_luc\vus\1\1year\saper_Minesweeper\saper_Minesweeper\saper_Minesweeper.cpp(569,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Yandex_luc\vus\1\1year\saper_Minesweeper\saper_Minesweeper\saper_Minesweeper.cpp(698): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  saper_Minesweeper.vcxproj -> D:\Yandex_luc\vus\1\1year\saper_Minesweeper\Debug\saper_Minesweeper.exe
